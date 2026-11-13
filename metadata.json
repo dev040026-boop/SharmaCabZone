@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sharma Tour And Travels",
+  "description": "Safe, comfortable, and affordable 24/7 taxi and cab service. Reliable rides anytime you need.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
